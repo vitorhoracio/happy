@@ -11,6 +11,9 @@ Aplicativo e plataforma Web que possibilita a localização fácil e rápida de 
 
 * 0.0.1
     * Criação da Landing page e map page.
+* 0.0.2
+   * Criação de uma API RESTFULL no backend.
+   
 
 ## Meta
 
